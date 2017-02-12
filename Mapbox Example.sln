@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mapbox Example", "Mapbox Example.csproj", "{1CDE3D8A-ADA7-5A30-C38B-6B91A63315C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mapbox Example.Editor", "Mapbox Example.Editor.csproj", "{43BED655-576D-40A9-7BA7-079732517C14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CDE3D8A-ADA7-5A30-C38B-6B91A63315C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CDE3D8A-ADA7-5A30-C38B-6B91A63315C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CDE3D8A-ADA7-5A30-C38B-6B91A63315C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CDE3D8A-ADA7-5A30-C38B-6B91A63315C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43BED655-576D-40A9-7BA7-079732517C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43BED655-576D-40A9-7BA7-079732517C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43BED655-576D-40A9-7BA7-079732517C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43BED655-576D-40A9-7BA7-079732517C14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
